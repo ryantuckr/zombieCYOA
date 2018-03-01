@@ -1,0 +1,10 @@
+.main {
+    background-image: url('../images/zombie.jpg');
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    color: white;
+}
